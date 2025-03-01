@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 
-import data_manager
+from data import data_manager  # Corrected line, we are not using from data manager
 
 app = Flask(__name__)
 
@@ -30,7 +30,7 @@ def blog_posts():
     """
     Displays a list of blog posts.
     """
-    posts = get_all_posts()
+    posts = data_manager.get_all_posts() # you need to use data_manager.get_all_posts
     return render_template("blog_posts.html", posts=posts)
 
 # Added routes for creating and viewing posts
@@ -42,7 +42,7 @@ def create_post():
     if request.method == "POST":
         content = request.form.get("content")
         if content:
-            create_new_post(content)
+            data_manager.create_new_post(content) # you need to use data_manager.create_new_post
             return redirect(url_for("blog_posts"))
     return render_template("create_post.html")
 
@@ -51,14 +51,14 @@ def view_post(post_id):
     """
     Displays a single blog post and handles adding replies.
     """
-    post = get_post_by_id(post_id)
+    post = data_manager.get_post_by_id(post_id) # you need to use data_manager.get_post_by_id
     if not post:
         return "Post not found", 404
 
     if request.method == "POST":
         reply_content = request.form.get("reply_content")
         if reply_content:
-            create_new_reply(post_id, reply_content)
+            data_manager.create_new_reply(post_id, reply_content) # you need to use data_manager.create_new_reply
             return redirect(url_for("view_post", post_id=post_id))
 
     return render_template("view_post.html", post=post)
@@ -119,5 +119,6 @@ def edit_task(task_id):
         return redirect(url_for('index'))
 
   return render_template('edit.html', task=task)
+
 if __name__ == '__main__':
     app.run(debug=True)
