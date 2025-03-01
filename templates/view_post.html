@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}View Post{% endblock %}
+
+{% block content %}
+<h1>{{ post.content }}</h1>
+<p>Posted at: {{ post.timestamp }}</p>
+
+<h2>Replies</h2>
+<ul>
+    {% for reply in post.replies %}
+    <li>{{ reply.content }} - {{ reply.timestamp }}</li>
+    {% endfor %}
+</ul>
+
+<h2>Add a Reply</h2>
+<form method="POST">
+    <textarea name="reply_content" placeholder="Write your reply here" required></textarea><br>
+    <button type="submit">Reply</button>
+</form>
+{% endblock %}

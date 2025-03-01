@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 
+import data_manager
+
 app = Flask(__name__)
 
 # Sample data to simulate a database (replace with a real database in a production app)
@@ -14,7 +16,7 @@ def objective():
     return render_template('objective.html')
 
 @app.route('/chat')
-def objection():
+def chat():
    return render_template('chat.html')
 
 @app.route('/chat_endpoint', methods=['POST'])
@@ -22,6 +24,44 @@ def chat_endpoint():
     user_prompt = request.json.get('prompt')
     gemini_response = {"reply": "This is a simulated response from Google Gemini."} #replace w gemini api
     return jsonify(gemini_response)
+
+@app.route("/blog")
+def blog_posts():
+    """
+    Displays a list of blog posts.
+    """
+    posts = get_all_posts()
+    return render_template("blog_posts.html", posts=posts)
+
+# Added routes for creating and viewing posts
+@app.route("/blog/create", methods=["GET", "POST"])
+def create_post():
+    """
+    Handles creating a new blog post.
+    """
+    if request.method == "POST":
+        content = request.form.get("content")
+        if content:
+            create_new_post(content)
+            return redirect(url_for("blog_posts"))
+    return render_template("create_post.html")
+
+@app.route("/blog/post/<int:post_id>", methods=["GET", "POST"])
+def view_post(post_id):
+    """
+    Displays a single blog post and handles adding replies.
+    """
+    post = get_post_by_id(post_id)
+    if not post:
+        return "Post not found", 404
+
+    if request.method == "POST":
+        reply_content = request.form.get("reply_content")
+        if reply_content:
+            create_new_reply(post_id, reply_content)
+            return redirect(url_for("view_post", post_id=post_id))
+
+    return render_template("view_post.html", post=post)
 
 @app.route('/')
 def index():
@@ -62,7 +102,6 @@ def delete_task(task_id):
     tasks = [task for task in tasks if task['id'] != task_id]
     return redirect(url_for('index'))
 
-
 @app.route('/edit/<int:task_id>', methods=['GET', 'POST'])
 def edit_task(task_id):
   """
@@ -80,6 +119,5 @@ def edit_task(task_id):
         return redirect(url_for('index'))
 
   return render_template('edit.html', task=task)
-
 if __name__ == '__main__':
     app.run(debug=True)
