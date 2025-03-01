@@ -15,7 +15,7 @@ def objective():
 
 @app.route('/chat')
 def objection():
-   return render_template('chatbot.py')
+   return render_template('chat.html')
 
 @app.route('/')
 def index():
