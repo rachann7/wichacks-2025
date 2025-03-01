@@ -13,6 +13,10 @@ def objective():
     """
     return render_template('objective.html')
 
+@app.route('/chat')
+def objection():
+   return render_template('chatbot.py')
+
 @app.route('/')
 def index():
     """
