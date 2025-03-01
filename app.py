@@ -17,6 +17,12 @@ def objective():
 def objection():
    return render_template('chat.html')
 
+@app.route('/chat_endpoint', methods=['POST'])
+def chat_endpoint():
+    user_prompt = request.json.get('prompt')
+    gemini_response = {"reply": "This is a simulated response from Google Gemini."} #replace w gemini api
+    return jsonify(gemini_response)
+
 @app.route('/')
 def index():
     """
