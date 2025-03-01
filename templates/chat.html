@@ -39,7 +39,7 @@
     sendPrompt.onclick = function() {
       const promptText = promptInput.value;
       if(promptText) {
-        fetch('/chat', {
+        fetch('/chat_endpoint', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ prompt: promptText })
