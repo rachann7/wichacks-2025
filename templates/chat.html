@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Gemini Chat</title>
+  <style>
+    .modal { display: none; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.4); }
+    .modal-content { background-color: #fefefe; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 80%; }
+    #closeModal { float: right; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <a href="#" id="openChat">Chat with Google Gemini</a>
+  <div id="chatModal" class="modal">
+    <div class="modal-content">
+      <span id="closeModal">&times;</span>
+      <h2>Google Gemini Chat</h2>
+      <div id="chatBox"></div>
+      <input type="text" id="promptInput" placeholder="Enter your prompt">
+      <button id="sendPrompt">Send</button>
+    </div>
+  </div>
+  <script>
+    const modal = document.getElementById("chatModal");
+    const openChat = document.getElementById("openChat");
+    const closeModal = document.getElementById("closeModal");
+    const sendPrompt = document.getElementById("sendPrompt");
+    const promptInput = document.getElementById("promptInput");
+    const chatBox = document.getElementById("chatBox");
+
+    openChat.onclick = function() {
+      modal.style.display = "block";
+    };
+
+    closeModal.onclick = function() {
+      modal.style.display = "none";
+    };
+
+    sendPrompt.onclick = function() {
+      const promptText = promptInput.value;
+      if(promptText) {
+        fetch('/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ prompt: promptText })
+        })
+        .then(response => response.json())
+        .then(data => {
+          chatBox.innerHTML += `<p><strong>You:</strong> ${promptText}</p>`;
+          chatBox.innerHTML += `<p><strong>Gemini:</strong> ${data.reply}</p>`;
+          promptInput.value = "";
+        });
+      }
+    };
+
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    };
+  </script>
+</body>
+</html>
