@@ -1,0 +1,11 @@
+nav, h1, p {
+    text-align: center; /* Center the text within the nav */
+}
+
+nav ul {
+    display: inline-block; /* Make the ul an inline block */
+    padding: 10px;
+}
+nav li{
+  display: inline-block;
+}

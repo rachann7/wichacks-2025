@@ -6,12 +6,19 @@ app = Flask(__name__)
 tasks = []
 task_id_counter = 1
 
+@app.route('/objective')
+def objective():
+    """
+    Renders the Our Objective page.
+    """
+    return render_template('objective.html')
+
 @app.route('/')
 def index():
     """
-    Renders the main page, displaying the list of tasks.
+    Redirects to the Our Objective page.
     """
-    return render_template('index.html', tasks=tasks)
+    return redirect(url_for('objective'))
 
 @app.route('/add', methods=['POST'])
 def add_task():

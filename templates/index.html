@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Task Manager</title>
-</head>
-<body>
+{% extends 'base.html' %}
+
+{% block title %}Task List{% endblock %}
+
+{% block content %}
     <h1>Task Manager</h1>
 
     <form action="/add" method="POST">
@@ -28,5 +26,5 @@
             </li>
         {% endfor %}
     </ul>
-</body>
-</html>
+{% endblock %}
+
