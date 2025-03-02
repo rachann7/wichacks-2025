@@ -1,11 +1,94 @@
-nav, h1, p {
-    text-align: center; /* Center the text within the nav */
+/* style.css */
+
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8f8; /* Light gray background */
+}
+
+nav {
+  background-color: #f0e68c; /* light goldenrod background */
+  width: 100%;
+  padding: 10px;
+  text-align: left; /* Align the text to the left */
+  margin-bottom: 20px;
 }
 
 nav ul {
-    display: inline-block; /* Make the ul an inline block */
-    padding: 10px;
-}
-nav li{
   display: inline-block;
+  padding: 10px;
+  list-style: none; /* Remove bullet points */
+  margin: 0; /* Remove default margins */
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px; /* Add spacing between nav items */
+}
+
+nav a {
+  text-decoration: none; /* Remove underline */
+  color: #333; /* Dark gray text */
+  font-weight: bold; /* Make text bold */
+}
+
+.blog-container {
+  width: 80%; /* Adjust width as needed */
+  max-width: 800px; /* Optional max width */
+  margin: 0 auto; /* Center the blog container horizontally */
+  text-align: left;
+  background-color: #fff; /* White background for the container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.blog-posts {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.blog-post {
+  border: 1px solid #f0e68c; /* light goldenrod border */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: left;
+  width: 100%;
+  max-width: 600px;
+  background-color: #fff; /* White background for posts */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.new-post-form {
+  border: 1px solid #f0e68c; /* light goldenrod border */
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 600px;
+  text-align: center; /* Center text in the form */
+  background-color: #fff; /* White background for the form */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+/* Target the textarea specifically */
+.new-post-form textarea {
+  width: calc(100% - 20px); /* 100% width minus padding */
+  max-width: 100%;
+  box-sizing: border-box; /* Include padding and border in width */
+  margin-bottom: 10px; /* Add a little space between textarea and button */
+  padding: 10px;
+  border: 1px solid #ccc; /* Add a border for visual separation */
+  resize: vertical; /* Allow vertical resizing */
+}
+
+.timestamp {
+  font-style: italic;
+  color: #777; /* Gray color */
+}
+
+h1 {
+  color: #333; /* Dark gray */
+  text-align: center;
 }

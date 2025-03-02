@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS posts (
+    post_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    content TEXT NOT NULL,
+    timestamp TIMESTAMP NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS replies (
+    reply_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    post_id INTEGER NOT NULL,
+    content TEXT NOT NULL,
+    timestamp TIMESTAMP NOT NULL,
+    FOREIGN KEY (post_id) REFERENCES posts (post_id)
+);

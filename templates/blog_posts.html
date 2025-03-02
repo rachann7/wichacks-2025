@@ -3,14 +3,27 @@
 {% block title %}Blog Posts{% endblock %}
 
 {% block content %}
-<h1>Blog Posts</h1>
-<a href="{{ url_for('create_post') }}">Create New Post</a>
-<ul>
-    {% for post in posts %}
-    <li>
-        <a href="{{ url_for('view_post', post_id=post.post_id) }}">{{ post.content }}</a>
-        <p>Posted at: {{ post.timestamp }}</p>
-    </li>
-    {% endfor %}
-</ul>
+<div class="blog-container">
+    <h1>Blog Posts</h1>
+
+    <div class="blog-posts">
+        {% for post in posts %}
+        <div class="blog-post">
+            <a href="{{ url_for('view_post', post_id=post.post_id) }}">
+                <!-- Removed Post Number -->
+            </a>
+            <p>{{ post.content }}</p>
+            <p class="timestamp">{{ post.timestamp }}</p>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="new-post-form">
+        <h2>Create a New Post</h2>
+        <form method="POST">
+            <textarea name="content" rows="5" cols="50" required></textarea><br>
+            <input type="submit" value="Create Post">
+        </form>
+    </div>
+</div>
 {% endblock %}
