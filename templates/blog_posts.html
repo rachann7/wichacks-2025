@@ -17,13 +17,13 @@
         </div>
         {% endfor %}
     </div>
-
+    
     <div class="new-post-form">
-        <h2>Create a New Post</h2>
+        <h2>Create New Post</h2>
         <form method="POST">
-            <textarea name="content" rows="5" cols="50" required></textarea><br>
-            <input type="submit" value="Create Post">
+            <input type="text" name="title" placeholder="Post title" required>
+            <textarea name="content" placeholder="Write your post here..." required></textarea>
+            <input type="submit" value="Create Post" class="submit-button">
         </form>
     </div>
-</div>
-{% endblock %}
+    {% endblock %}

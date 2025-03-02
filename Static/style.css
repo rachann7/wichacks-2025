@@ -109,3 +109,31 @@ h1 {
 .post-actions {
   margin-top: 10px;
 }
+
+/* Button styling */
+.button, button, input[type="submit"] {
+  background-color: #f0e68c;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.button:hover, button:hover, input[type="submit"]:hover {
+  background-color: #e6dc7c;
+  transition: background-color 0.2s ease;
+}
+
+/* Form input styling */
+.new-post-form input[type="text"],
+.new-post-form input[type="submit"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
