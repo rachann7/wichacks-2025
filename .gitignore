@@ -2,5 +2,9 @@
 __pycache__/
 *.pyc
 .DS_Store
+<<<<<<< HEAD
+venv/
+=======
 node_modules/
 .venv/
+>>>>>>> e29d8f109a90a329cff3783d88143ede8fdddc29
