@@ -1,6 +1,11 @@
 from flask import Flask, render_template, request, redirect, url_for, jsonify
+from dotenv import load_dotenv
+import os
+import google.generativeai as genai
 
-from data import data_manager  # Corrected line, we are not using from data manager
+from data import data_manager
+
+load_dotenv()
 
 app = Flask(__name__,
     static_url_path='/static',  # Update static path
@@ -8,9 +13,17 @@ app = Flask(__name__,
     template_folder='templates'
 )
 
-# Sample data to simulate a database (replace with a real database in a production app)
-tasks = []
-task_id_counter = 1
+# Configure Gemini API
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+genai.configure(api_key=GOOGLE_API_KEY)
+
+# List available models
+for m in genai.list_models():
+    if 'generateContent' in m.supported_generation_methods:
+        print(m.name)
+
+# Update model initialization
+model = genai.GenerativeModel('models/gemini-1.5-pro')
 
 @app.route('/objective')
 def objective():
@@ -25,9 +38,35 @@ def chat():
 
 @app.route('/chat_endpoint', methods=['POST'])
 def chat_endpoint():
-    user_prompt = request.json.get('prompt')
-    gemini_response = {"reply": "This is a simulated response from Google Gemini."} #replace w gemini api
-    return jsonify(gemini_response)
+    try:
+        user_prompt = request.json.get('prompt')
+        if not user_prompt:
+            return jsonify({"error": "No prompt provided"}), 400
+
+        print(f"Sending prompt to Gemini: {user_prompt}")  # Debug log
+
+        # Generate response from Gemini
+        response = model.generate_content(
+            user_prompt,
+            generation_config={
+                "temperature": 0.7,
+                "top_p": 0.8,
+                "top_k": 40,
+                "max_output_tokens": 1024,
+            }
+        )
+        
+        print(f"Received response from Gemini: {response}")  # Debug log
+        
+        if response and hasattr(response, 'text'):
+            return jsonify({"reply": response.text})
+        else:
+            print("Invalid response from Gemini:", response)
+            return jsonify({"error": "No response generated"}), 500
+    
+    except Exception as e:
+        print(f"Gemini API Error: {str(e)}")
+        return jsonify({"error": str(e)}), 500
 
 @app.route("/blog", methods=["GET", "POST"])
 def blog_posts():
