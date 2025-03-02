@@ -52,6 +52,11 @@ def create_new_reply(post_id, content):
     db.commit()
     db.close()
 
+def delete_post(self, post_id):
+    with self.get_db_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute('DELETE FROM posts WHERE id = ?', (post_id,))
+        conn.commit()
 
 # Initialize the database when data.py is imported
 # Comment this line if you already have the db created.
