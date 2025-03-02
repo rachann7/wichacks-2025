@@ -25,12 +25,20 @@ def chat_endpoint():
     gemini_response = {"reply": "This is a simulated response from Google Gemini."} #replace w gemini api
     return jsonify(gemini_response)
 
-@app.route("/blog")
+@app.route("/blog", methods=["GET", "POST"])
 def blog_posts():
     """
-    Displays a list of blog posts.
+    Displays and handles blog posts.
     """
-    posts = data_manager.get_all_posts() # you need to use data_manager.get_all_posts
+    if request.method == "POST":
+        title = request.form.get("title")
+        content = request.form.get("content")
+        if title and content:
+            # Default author for now
+            data_manager.create_new_post(content, title, "Anonymous")
+            return redirect(url_for("blog_posts"))
+    
+    posts = data_manager.get_all_posts()
     return render_template("blog_posts.html", posts=posts)
 
 # Added routes for creating and viewing posts
@@ -48,26 +56,20 @@ def create_post():
 
 @app.route("/blog/post/<int:post_id>", methods=["GET", "POST"])
 def view_post(post_id):
-    """
-    Displays a single blog post and handles adding replies.
-    """
-    post = data_manager.get_post_by_id(post_id) # you need to use data_manager.get_post_by_id
+    post = data_manager.get_post_by_id(post_id)
     if not post:
         return "Post not found", 404
-
+    
     if request.method == "POST":
         reply_content = request.form.get("reply_content")
         if reply_content:
-            data_manager.create_new_reply(post_id, reply_content) # you need to use data_manager.create_new_reply
+            data_manager.create_new_reply(post_id, reply_content)
             return redirect(url_for("view_post", post_id=post_id))
-
+    
     return render_template("view_post.html", post=post)
 
 @app.route('/')
 def index():
-    """
-    Redirects to the Our Objective page.
-    """
     return redirect(url_for('objective'))
 
 @app.route('/add', methods=['POST'])
