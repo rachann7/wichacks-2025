@@ -3,6 +3,7 @@
 {% block title %}Blog Posts{% endblock %}
 
 {% block content %}
+<<<<<<< HEAD
 <div class="blog-container">
     <h1>Blog Posts</h1>
 
@@ -27,3 +28,16 @@
         </form>
     </div>
     {% endblock %}
+=======
+<h1>Blog Posts</h1>
+<a href="{{ url_for('create_post') }}">Create New Post</a>
+<ul>
+    {% for post in posts %}
+    <li>
+        <a href="{{ url_for('view_post', post_id=post.post_id) }}">{{ post.content }}</a>
+        <p>Posted at: {{ post.timestamp }}</p>
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}
+>>>>>>> parent of 4ac2767 (attempting to add color)

@@ -1,30 +1,14 @@
-/* style.css */
-
-body {
-  font-family: sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: #f8f8f8; /* Light gray background */
-}
-
-nav {
-  background-color: #f0e68c; /* light goldenrod background */
-  width: 100%;
-  padding: 10px;
-  text-align: left; /* Align the text to the left */
-  margin-bottom: 20px;
+nav, h1, p {
+    text-align: center; /* Center the text within the nav */
 }
 
 nav ul {
-  display: inline-block;
-  padding: 10px;
-  list-style: none; /* Remove bullet points */
-  margin: 0; /* Remove default margins */
+    display: inline-block; /* Make the ul an inline block */
+    padding: 10px;
 }
-
-nav li {
+nav li{
   display: inline-block;
+<<<<<<< HEAD
   margin-right: 20px; /* Add spacing between nav items */
 }
 
@@ -136,4 +120,6 @@ h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
   box-sizing: border-box;
+=======
+>>>>>>> parent of 4ac2767 (attempting to add color)
 }
