@@ -32,9 +32,9 @@ def objective():
     """
     return render_template('objective.html')
 
-@app.route('/chat')
-def chat():
-   return render_template('chat.html')
+#@app.route('/chat')
+#def chat():
+#   return render_template('chat.html')
 
 @app.route('/chat_endpoint', methods=['POST'])
 def chat_endpoint():
