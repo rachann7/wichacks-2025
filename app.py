@@ -43,6 +43,15 @@ def chat_endpoint():
         if not user_prompt:
             return jsonify({"error": "No prompt provided"}), 400
 
+        therapy_context = """You are a supportive, empathetic AI therapist. Respond to users with compassion, 
+        ask clarifying questions when needed, and provide helpful mental health insights. 
+        Avoid giving medical advice, but offer emotional support and evidence-based coping strategies. 
+        Keep responses concise, warm, and focused on the user's wellbeing.
+        """
+        
+        full_prompt = f"{therapy_context}\n\nUser message: {user_prompt}"
+
+
         print(f"Sending prompt to Gemini: {user_prompt}")  # Debug log
 
         # Generate response from Gemini

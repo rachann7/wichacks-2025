@@ -166,6 +166,11 @@
             chatLink.addEventListener('click', function(e) {
                 e.preventDefault();
                 chatPopup.style.display = 'flex';
+
+                if (chatBox.children.length === 0) {
+                    addMessage("Hi there! I'm a supportive AI assistant here to listen and help. Feel free to share what's on your mind, and we can talk through it together. How are you feeling today?", false);
+                }
+
             });
             
             // Close chat popup
