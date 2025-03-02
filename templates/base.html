@@ -2,25 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{% block title %}Task Manager{% endblock %}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <style>
-        nav {
-            background-color: #f0f0f0;
-            padding: 10px;
-            margin-bottom: 20px;
-            text-align: center; /* center the text */
-        }
-        nav ul {
-            list-style: none;
-            margin: 0;
-            padding: 0;
-        }
-        nav li {
-            display: inline;
-            margin-right: 20px;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}WicHacks 2025{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <nav>
@@ -28,13 +12,10 @@
             <li><a href="/blog">Blog with Us</a></li>
             <li><a href="/objective">Our Objective</a></li>
             <li><a href="/chat">Wanna Chat?</a></li>
-            <!-- Add more navigation links here in the future -->
         </ul>
     </nav>
-
     <div class="content">
-        {% block content %}
-        {% endblock %}
+        {% block content %}{% endblock %}
     </div>
 </body>
 </html>

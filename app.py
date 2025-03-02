@@ -2,7 +2,11 @@ from flask import Flask, render_template, request, redirect, url_for, jsonify
 
 from data import data_manager  # Corrected line, we are not using from data manager
 
-app = Flask(__name__)
+app = Flask(__name__,
+    static_url_path='/static',  # Update static path
+    static_folder='static',
+    template_folder='templates'
+)
 
 # Sample data to simulate a database (replace with a real database in a production app)
 tasks = []
