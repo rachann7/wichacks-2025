@@ -4599,3 +4599,2806 @@ models/learnlm-1.5-pro-experimental
 [2025-03-02 11:35:23 -0500] [37453] [ERROR] Worker (pid:37472) was sent SIGINT!
 [2025-03-02 11:35:23 -0500] [37453] [ERROR] Worker (pid:37471) was sent SIGINT!
 [2025-03-02 11:35:23 -0500] [37453] [INFO] Shutting down: Master
+[2025-03-02 11:37:41 -0500] [37781] [INFO] Starting gunicorn 23.0.0
+[2025-03-02 11:37:41 -0500] [37781] [INFO] Listening at: http://0.0.0.0:8000 (37781)
+[2025-03-02 11:37:41 -0500] [37781] [INFO] Using worker: sync
+[2025-03-02 11:37:41 -0500] [37782] [INFO] Booting worker with pid: 37782
+[2025-03-02 11:37:41 -0500] [37783] [INFO] Booting worker with pid: 37783
+[2025-03-02 11:37:41 -0500] [37784] [INFO] Booting worker with pid: 37784
+[2025-03-02 11:37:41 -0500] [37785] [INFO] Booting worker with pid: 37785
+[2025-03-02 11:37:41 -0500] [37786] [INFO] Booting worker with pid: 37786
+[2025-03-02 11:37:41 -0500] [37787] [INFO] Booting worker with pid: 37787
+[2025-03-02 11:37:41 -0500] [37788] [INFO] Booting worker with pid: 37788
+[2025-03-02 11:37:41 -0500] [37789] [INFO] Booting worker with pid: 37789
+[2025-03-02 11:37:41 -0500] [37790] [INFO] Booting worker with pid: 37790
+[2025-03-02 11:37:41 -0500] [37791] [INFO] Booting worker with pid: 37791
+[2025-03-02 11:37:41 -0500] [37792] [INFO] Booting worker with pid: 37792
+[2025-03-02 11:37:41 -0500] [37793] [INFO] Booting worker with pid: 37793
+[2025-03-02 11:37:41 -0500] [37794] [INFO] Booting worker with pid: 37794
+[2025-03-02 11:37:41 -0500] [37795] [INFO] Booting worker with pid: 37795
+[2025-03-02 11:37:41 -0500] [37797] [INFO] Booting worker with pid: 37797
+[2025-03-02 11:37:41 -0500] [37799] [INFO] Booting worker with pid: 37799
+[2025-03-02 11:37:41 -0500] [37800] [INFO] Booting worker with pid: 37800
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.0-pro-vision-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-pro-vision
+models/gemini-1.5-flash-latest
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-flash-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/gemini-2.0-flash
+models/learnlm-1.5-pro-experimental
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-1.0-pro-vision-latest
+models/gemini-exp-1206
+models/gemini-pro-vision
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-1.5-pro-latest
+models/gemini-2.0-flash-thinking-exp
+models/gemini-1.5-pro-001
+models/gemini-2.0-flash-thinking-exp-1219
+models/gemini-1.5-pro-002
+models/learnlm-1.5-pro-experimental
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+[2025-03-02 11:54:51 -0500] [37781] [INFO] Handling signal: int
+[2025-03-02 11:54:51 -0500] [37797] [INFO] Worker exiting (pid: 37797)
+[2025-03-02 11:54:51 -0500] [37788] [INFO] Worker exiting (pid: 37788)
+[2025-03-02 11:54:51 -0500] [37787] [INFO] Worker exiting (pid: 37787)
+[2025-03-02 11:54:51 -0500] [37795] [INFO] Worker exiting (pid: 37795)
+[2025-03-02 11:54:51 -0500] [37785] [INFO] Worker exiting (pid: 37785)
+[2025-03-02 11:54:51 -0500] [37783] [INFO] Worker exiting (pid: 37783)
+[2025-03-02 11:54:51 -0500] [37789] [INFO] Worker exiting (pid: 37789)
+[2025-03-02 11:54:51 -0500] [37793] [INFO] Worker exiting (pid: 37793)
+[2025-03-02 11:54:51 -0500] [37791] [INFO] Worker exiting (pid: 37791)
+[2025-03-02 11:54:51 -0500] [37782] [INFO] Worker exiting (pid: 37782)
+[2025-03-02 11:54:51 -0500] [37786] [INFO] Worker exiting (pid: 37786)
+[2025-03-02 11:54:51 -0500] [37794] [INFO] Worker exiting (pid: 37794)
+[2025-03-02 11:54:51 -0500] [37790] [INFO] Worker exiting (pid: 37790)
+[2025-03-02 11:54:51 -0500] [37800] [INFO] Worker exiting (pid: 37800)
+[2025-03-02 11:54:51 -0500] [37784] [INFO] Worker exiting (pid: 37784)
+[2025-03-02 11:54:51 -0500] [37799] [INFO] Worker exiting (pid: 37799)
+[2025-03-02 11:54:51 -0500] [37792] [INFO] Worker exiting (pid: 37792)
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37800) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37799) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37795) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37794) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37793) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37792) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37791) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37790) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37789) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37788) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37787) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37786) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37785) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37784) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37783) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37782) was sent SIGINT!
+[2025-03-02 11:54:51 -0500] [37781] [ERROR] Worker (pid:37797) was sent SIGINT!
+[2025-03-02 11:54:52 -0500] [37781] [INFO] Shutting down: Master
+[2025-03-02 11:54:53 -0500] [37987] [INFO] Starting gunicorn 23.0.0
+[2025-03-02 11:54:53 -0500] [37987] [INFO] Listening at: http://0.0.0.0:8000 (37987)
+[2025-03-02 11:54:53 -0500] [37987] [INFO] Using worker: sync
+[2025-03-02 11:54:53 -0500] [37989] [INFO] Booting worker with pid: 37989
+[2025-03-02 11:54:53 -0500] [37990] [INFO] Booting worker with pid: 37990
+[2025-03-02 11:54:53 -0500] [37991] [INFO] Booting worker with pid: 37991
+[2025-03-02 11:54:53 -0500] [37992] [INFO] Booting worker with pid: 37992
+[2025-03-02 11:54:53 -0500] [37993] [INFO] Booting worker with pid: 37993
+[2025-03-02 11:54:53 -0500] [37994] [INFO] Booting worker with pid: 37994
+[2025-03-02 11:54:53 -0500] [37995] [INFO] Booting worker with pid: 37995
+[2025-03-02 11:54:53 -0500] [37996] [INFO] Booting worker with pid: 37996
+[2025-03-02 11:54:53 -0500] [37997] [INFO] Booting worker with pid: 37997
+[2025-03-02 11:54:54 -0500] [37998] [INFO] Booting worker with pid: 37998
+[2025-03-02 11:54:54 -0500] [37999] [INFO] Booting worker with pid: 37999
+[2025-03-02 11:54:54 -0500] [38000] [INFO] Booting worker with pid: 38000
+[2025-03-02 11:54:54 -0500] [38001] [INFO] Booting worker with pid: 38001
+[2025-03-02 11:54:54 -0500] [38002] [INFO] Booting worker with pid: 38002
+[2025-03-02 11:54:54 -0500] [38003] [INFO] Booting worker with pid: 38003
+[2025-03-02 11:54:54 -0500] [38006] [INFO] Booting worker with pid: 38006
+[2025-03-02 11:54:54 -0500] [38007] [INFO] Booting worker with pid: 38007
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/gemini-1.0-pro-vision-latest
+models/gemini-1.0-pro-vision-latest
+models/gemini-pro-vision
+models/gemini-pro-vision
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-latest
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-001
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro-002
+models/gemini-1.5-pro
+models/gemini-1.5-pro
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-latest
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash-001-tuning
+models/gemini-1.5-flash
+models/gemini-1.5-flash
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-002
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-001
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-latest
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0827
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-1.5-flash-8b-exp-0924
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash-exp
+models/gemini-2.0-flash
+models/gemini-2.0-flash
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite-001
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview-02-05
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-flash-lite-preview
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp
+models/gemini-2.0-pro-exp-02-05
+models/gemini-2.0-pro-exp-02-05
+models/gemini-exp-1206
+models/gemini-exp-1206
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp-01-21
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp
+models/gemini-2.0-flash-thinking-exp-1219
+models/gemini-2.0-flash-thinking-exp-1219
+models/learnlm-1.5-pro-experimental
+models/learnlm-1.5-pro-experimental
+Sending prompt to Gemini: what resoruces are there at RIT for academic success?
+Received response from Gemini: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "RIT offers a wide range of resources to support student academic success.  Here are some key areas and examples:\n\n**Academic Support Centers:**\n\n* **Academic Support Center (ASC):** Offers tutoring (individual and group), academic coaching, workshops on study skills, time management, and test-taking strategies.\n* **Writing Commons:** Provides writing support across all disciplines, from brainstorming to final revisions. They offer individual consultations, workshops, and online resources.\n* **Mathematics Learning Center:**  Dedicated support for math courses, offering tutoring and workshops.\n* **Subject-Specific Tutoring:** Many departments offer tutoring specific to their courses, often staffed by upper-class students or graduate assistants.\n\n**Accessibility and Disability Services:**\n\n* **Disability Services Office (DSO):**  Provides accommodations and support for students with disabilities, including extended time on tests, note-taking assistance, and assistive technology.\n\n**Libraries and Research:**\n\n* **Wallace Library:**  The main library with extensive resources, including books, journals, databases, and research guides. Librarians are available for research consultations.\n* **Subject-Specific Libraries:**  Specialized libraries exist for areas like art, design, and performing arts.\n\n**Advising and Counseling:**\n\n* **Academic Advisors:**  Help students choose courses, plan their academic path, and connect with resources.\n* **Personal Counselors:**  Provide support for mental health and well-being, which can significantly impact academic performance.\n\n**Technology and Computing:**\n\n* **Information and Technology Services (ITS):**  Provides technical support for computers, software, and online learning platforms.\n* **Computer labs and classrooms:**  Equipped with the necessary software and hardware for academic work.\n\n**Other Resources:**\n\n* **Cooperative Education and Career Services:**  While focused on career development, co-op experiences can enhance academic learning and provide real-world application of knowledge.\n* **Student Life Office:**  Offers various programs and resources to support student well-being and engagement, which can indirectly contribute to academic success.\n* **Multicultural Center for Academic Success:**  Provides support and resources for students from underrepresented groups.\n* **ALANA Collegiate Association:**  Offers academic and social support for African American, Latinx, Asian, and Native American students.\n* **Student Government:**  Advocates for student needs and can be a resource for addressing academic concerns.\n\n**Tips for Accessing Resources:**\n\n* **Explore the RIT website:**  The RIT website has detailed information on all of these resources.\n* **Connect with your academic advisor:**  They can guide you to the right resources based on your specific needs.\n* **Don't wait until you're struggling:**  Take advantage of resources early on to build a strong foundation for academic success.\n* **Reach out to professors:**  They are often willing to provide extra help and guidance.\n\nBy utilizing these resources effectively, students can significantly enhance their learning experience and achieve their academic goals at RIT.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "avg_logprobs": -0.15319040189913619
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 12,
+        "candidates_token_count": 615,
+        "total_token_count": 627
+      },
+      "model_version": "gemini-1.5-pro-002"
+    }),
+)
+[2025-03-02 11:59:17 -0500] [37987] [INFO] Handling signal: int
+[2025-03-02 11:59:18 -0500] [37993] [INFO] Worker exiting (pid: 37993)
+[2025-03-02 11:59:18 -0500] [37997] [INFO] Worker exiting (pid: 37997)
+[2025-03-02 11:59:18 -0500] [38006] [INFO] Worker exiting (pid: 38006)
+[2025-03-02 11:59:18 -0500] [38001] [INFO] Worker exiting (pid: 38001)
+[2025-03-02 11:59:18 -0500] [37989] [INFO] Worker exiting (pid: 37989)
+[2025-03-02 11:59:18 -0500] [37992] [INFO] Worker exiting (pid: 37992)
+[2025-03-02 11:59:18 -0500] [37996] [INFO] Worker exiting (pid: 37996)
+[2025-03-02 11:59:18 -0500] [38003] [INFO] Worker exiting (pid: 38003)
+[2025-03-02 11:59:18 -0500] [37994] [INFO] Worker exiting (pid: 37994)
+[2025-03-02 11:59:18 -0500] [37990] [INFO] Worker exiting (pid: 37990)
+[2025-03-02 11:59:18 -0500] [38002] [INFO] Worker exiting (pid: 38002)
+[2025-03-02 11:59:18 -0500] [38007] [INFO] Worker exiting (pid: 38007)
+[2025-03-02 11:59:18 -0500] [38000] [INFO] Worker exiting (pid: 38000)
+[2025-03-02 11:59:18 -0500] [37991] [INFO] Worker exiting (pid: 37991)
+[2025-03-02 11:59:18 -0500] [37998] [INFO] Worker exiting (pid: 37998)
+[2025-03-02 11:59:18 -0500] [37999] [INFO] Worker exiting (pid: 37999)
+[2025-03-02 11:59:18 -0500] [37995] [INFO] Worker exiting (pid: 37995)
+[2025-03-02 11:59:18 -0500] [37987] [ERROR] Worker (pid:38007) was sent SIGINT!
+[2025-03-02 11:59:18 -0500] [37987] [ERROR] Worker (pid:38003) was sent SIGINT!
+--- Logging error ---
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:38002) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:38001) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:38000) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37999) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37998) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37997) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37996) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37995) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37994) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37993) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37992) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37991) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37990) was sent SIGINT!'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1091, in emit
+    self.handleError(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1005, in handleError
+    traceback.print_exception(t, v, tb, None, sys.stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 103, in print_exception
+    for line in TracebackException(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 508, in __init__
+    self.stack = StackSummary.extract(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/traceback.py", line 336, in extract
+    limit = getattr(sys, 'tracebacklimit', None)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:37989) was sent SIGINT!'
+Arguments: ()
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+RuntimeError: reentrant call inside <_io.BufferedWriter name='/Users/rachelleone/wichacks-2025/logs/error.log'>
+Call stack:
+  File "/Users/rachelleone/wichacks-2025/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 66, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 235, in run
+    super().run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/app/base.py", line 71, in run
+    Arbiter(self).run()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 223, in run
+    handler()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 260, in handle_int
+    self.stop(False)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 395, in stop
+    time.sleep(0.1)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1475, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1589, in _log
+    self.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1599, in handle
+    self.callHandlers(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1661, in callHandlers
+    hdlr.handle(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 952, in handle
+    self.emit(record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1187, in emit
+    StreamHandler.emit(self, record)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1087, in emit
+    self.flush()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/logging/__init__.py", line 1067, in flush
+    self.stream.flush()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 239, in handle_chld
+    def handle_chld(self, sig, frame):
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 241, in handle_chld
+    self.reap_workers()
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/arbiter.py", line 553, in reap_workers
+    self.log.error(msg)
+  File "/Users/rachelleone/wichacks-2025/venv/lib/python3.9/site-packages/gunicorn/glogging.py", line 271, in error
+    self.error_log.error(msg, *args, **kwargs)
+Message: 'Worker (pid:38006) was sent SIGINT!'
+Arguments: ()
+[2025-03-02 11:59:18 -0500] [37987] [INFO] Shutting down: Master
